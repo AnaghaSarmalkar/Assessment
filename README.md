@@ -1,5 +1,11 @@
 # Test Application
-An application to manipulate strings
+An application to manipulate strings.
 
 ## Technologies
-Python 3.8
+Python 3.5+
+
+## Setup
+Run the test.py in the terminal.
+
+## Implementation
+The implementation details have been documented in the code.
